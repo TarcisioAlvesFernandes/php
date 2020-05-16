@@ -1,7 +1,9 @@
 <?php
+
 	echo "Olá Mundo 123!";
 
-	echo "Olá Hcode!";
+	echo "Olá tarcisio!";
 
-	echo "Olá ningue!";
+	echo "Olá a todos!";
+
 ?>
